@@ -1,0 +1,73 @@
+/* CSS Document */
+
+.dash_bg
+{ font-family:Verdana, Arial, Helvetica, sans-serif;
+   color:#CCCCCC;   
+}
+
+.welcome_table
+{
+text-align:left;
+margin-top:2%;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+
+.table_border{
+width:70%;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+border-bottom:medium;
+border-bottom-color:#666666;
+border-bottom-width:medium;
+border-bottom-style:solid;
+}
+.tabletopspace {
+margin-top:4%;
+text-align:center;
+}
+
+.balance_report
+{
+width:60%;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+padding-bottom:2%;
+padding-top:2%;
+}
+.footer {
+background-color:#333333;
+text-align:center;
+color:#666666;
+padding-top:5px;
+padding-bottom:5px;
+margin-top:5%;
+font-style:italic;
+}
+.recharge1
+{ width:60%;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+font-family:Arial, Helvetica, sans-serif;
+font-size:22px;
+padding-top:5%;
+}
+
+.parking_details{
+text-align:center;
+background-color:#666666;
+width:70%;
+margin-left:auto;
+margin-right:auto;
+margin-top:2%;
+
+}
+
+.addvehicle {
+margin-left:auto;
+margin-right:auto;
+width:70%;
+padding-top:3%;
+}
